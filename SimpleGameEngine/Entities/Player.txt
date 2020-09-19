@@ -1,0 +1,3 @@
+DrawRect0 50 50 #ff0000
+ClampToScreen0 25
+Accel0 1 1 0.5 0.3

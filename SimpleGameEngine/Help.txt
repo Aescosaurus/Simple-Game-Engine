@@ -1,0 +1,11 @@
+listentity: Display a list of all entities.
+listmodule: Display a list of all modules.
+showcode (module): Display the code for module.
+createentity (name): Create an entity with name.
+addmodule (entity, module): Add module to entity.
+showentity (entity): Display entity info.
+showentityarg (entity): Display entity info and module arguments.
+build: Create a build of the game.
+deleteentity (entity): Delete an entity.
+setarg(entity, module, argument, value): Set an argument of a module on an entity.
+quit: Exit the program.
